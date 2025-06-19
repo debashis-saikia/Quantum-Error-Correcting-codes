@@ -19,14 +19,14 @@ Let the corresponding parity check matrices be **A** and **B**, respectively.
 
 Then, the hypergraph product code is the CSS code defined by the stabilizer matrices **H<sub>X</sub>** and **H<sub>Z</sub>**, where:
 
-### ✳️ X-Stabilizer Matrix H<sub>X</sub>
+### X-Stabilizer Matrix H<sub>X</sub>
 
 ```math
 H_X = [
     A ⊗ I<sub>n<sub>B</sub></sub>  |  I<sub>m<sub>A</sub></sub> ⊗ B
 ]
 ```
-### ✳️ Z-Stabilizer Matrix H<sub>Z</sub>
+### Z-Stabilizer Matrix H<sub>Z</sub>
 
 ```math
 H_Z = [
