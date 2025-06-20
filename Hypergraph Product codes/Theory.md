@@ -1,6 +1,6 @@
 # Hypergraph Product Code
 
-Hypergraph Product Codes are a powerful class of quantum error-correcting codes (QECCs) that help protect quantum information from errors due to noise and decoherence — a major challenge in building scalable quantum computers.
+Hypergraph Product Codes are a powerful class of quantum error-correcting codes (QECCs) that help protect quantum information from errors due to noise and decoherence, a major challenge in building scalable quantum computers.
 
 These codes are best defined in terms of hypergraphs (graphs in which one edge can join more than two vertices), but they can also be defined in terms of **matrices**. The matrix representation is the most frequently used in quantum error correction theory and implementation.
 
