@@ -34,4 +34,4 @@ H_Z = [
 ]
 ```
 
-Check out the original paper by **Tillich and Zémor ** [Quantum LDPC Codes With Positive Rate and Minimum Distance Proportional to the Square Root of the Blocklength](https://ieeexplore.ieee.org/document/6671468) for more information.
+Check out the original paper by **Tillich and Zémor** [Quantum LDPC Codes With Positive Rate and Minimum Distance Proportional to the Square Root of the Blocklength](https://ieeexplore.ieee.org/document/6671468) for more information.
