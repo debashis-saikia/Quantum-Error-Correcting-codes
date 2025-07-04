@@ -4,7 +4,8 @@
 import numpy as np
 from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister
 from qiskit.quantum_info import Kraus
-from qiskit_aer import AerSimulator, NoiseModel, QuantumError
+from qiskit_aer import AerSimulator
+from qiskit_aer.noise import NoiseModel, QuantumError
 
 #Example:
 
