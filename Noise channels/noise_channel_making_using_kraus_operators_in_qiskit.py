@@ -9,7 +9,7 @@ from qiskit_aer.noise import NoiseModel, QuantumError
 
 #Example:
 
-def custom_noise_channel(num_operators,p_error, initial_bitstring):
+def custom_noise_channel(p_error, initial_bitstring):
   #Defining the circuit.
   n_qubits = len(initial_bitstring)
   qc = QuantumCircuit(n_qubits, n_qubits)
