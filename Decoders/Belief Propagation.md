@@ -16,7 +16,4 @@ This decoder is heavily based on iterative decoding principles outlined in Sarah
 
 OSD reorders bits by reliability, reduces the decoding problem to the most confident subspace, and uses Gaussian elimination to solve for corrections, making it one of the best known classical-inspired decoding tricks for quantum error correction.
 
-### References
-- P. P. Vaidya, *“Soft-decision decoding using ordered statistics,”* IEEE Transactions on Information Theory, 1996.
-- D. Poulin and Y. Chung, *"On the iterative decoding of sparse quantum codes,"* Quantum Information & Computation, 2008. [arXiv:0801.1241](https://arxiv.org/abs/0801.1241)
 ---
