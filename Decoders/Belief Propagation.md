@@ -19,6 +19,4 @@ OSD reorders bits by reliability, reduces the decoding problem to the most confi
 ### References
 - P. P. Vaidya, *“Soft-decision decoding using ordered statistics,”* IEEE Transactions on Information Theory, 1996.
 - D. Poulin and Y. Chung, *"On the iterative decoding of sparse quantum codes,"* Quantum Information & Computation, 2008. [arXiv:0801.1241](https://arxiv.org/abs/0801.1241)
-- Kovalev et al., *“Numerical performance of quantum LDPC codes,”* [arXiv:1111.6301](https://arxiv.org/abs/1111.6301)
-
 ---
