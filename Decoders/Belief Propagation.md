@@ -16,4 +16,7 @@ This decoder is heavily based on iterative decoding principles outlined in Sarah
 
 OSD reorders bits by reliability, reduces the decoding problem to the most confident subspace, and uses Gaussian elimination to solve for corrections, making it one of the best known classical-inspired decoding tricks for quantum error correction.
 
+### Reference
+- P. Panteleev and G. Kalachev, "Degenerate Quantum LDPC Codes With Good Finite Length Performance," *Quantum*, vol. 5, p. 585, Nov. 2021. [Online]. Available: https://doi.org/10.22331/q-2021-11-22-585
+
 ---
