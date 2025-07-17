@@ -1,11 +1,11 @@
-pip install -U ldpc
+#pip install -U ldpc
 
 import ldpc
 print(ldpc.__version__)
 
-pip install qiskit
+#pip install qiskit
 
-pip install qiskit-aer
+#pip install qiskit-aer
 
 """###Importing Libraries"""
 
